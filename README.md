@@ -30,7 +30,7 @@ The following image shows the console after losing connection. Transactions were
 <br>
 
 ## Deployed app
-<a href=""> click here </a>
+<a href="https://pwa-budget2track.herokuapp.com/"> click here </a>
 
 ## Contact information 
 
